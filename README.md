@@ -15,8 +15,8 @@ Install AutoHotKey, then run the desktop_switcher.ahk script (open with AutoHotK
         <CapsLock> + <Num>      - Switches to virtual desktop "num".
         <CapsLock> + UP         - Create a new virtual desktop
         <CapsLock> + DOWN       - Delete the current virtual desktop
-        <CapsLock> + Left       - Switch to virtual desktop on left
-        <CapsLock> + Right      - Switch to virtual desktop on right
+        <CapsLock> + LEFT       - Switch to virtual desktop on left
+        <CapsLock> + RIGHT      - Switch to virtual desktop on right
 
 To change the key mappings, modify the bottom of the script and reload. Be sure to read about the [symbols AutoHotKey uses](https://autohotkey.com/docs/Hotkeys.htm) for key mapping.
 
